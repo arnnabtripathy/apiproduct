@@ -1,0 +1,18 @@
+{
+  "apiResources" : [ ],
+  "approvalType" : "auto",
+  "attributes" : [ {
+    "name" : "access",
+    "value" : "private"
+  } ],
+  "createdAt" : 1465303805462,
+  "createdBy" : "arnnab.tripathy@tcs.com",
+  "description" : "",
+  "displayName" : "TestProduct",
+  "environments" : [ ],
+  "lastModifiedAt" : 1465303805462,
+  "lastModifiedBy" : "arnnab.tripathy@tcs.com",
+  "name" : "TestProduct",
+  "proxies" : [ ],
+  "scopes" : [ "" ]
+}
